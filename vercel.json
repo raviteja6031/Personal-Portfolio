@@ -1,5 +1,5 @@
 {
-    "buildCommand": "node build-static.js",
+    "buildCommand": "vite build --config static-vite.config.js",
     "outputDirectory": "dist",
     "installCommand": "npm install",
     "rewrites": [
