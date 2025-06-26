@@ -37,7 +37,7 @@ const HeroSection: React.FC = () => {
             </span>
           </h1>
           <p className="text-xl md:text-2xl text-slate-600 dark:text-slate-300 mb-8 max-w-3xl mx-auto">
-            Java Full Stack Developer specializing in Spring Boot, Microservices, React.js, and AWS
+            AWS Java Developer specializing in Spring Boot, Microservices, React.js, AWS and DevOps
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center items-center mb-12">
             <button 
